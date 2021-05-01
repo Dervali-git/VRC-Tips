@@ -4,8 +4,8 @@
 _Note: These anmations are tuned for the Davali and soon Kitavali._
 
 ### About
-This is a set of animations and an animation controller used to add sit and laydown animations to SDK3 avatars for use by VRChat users not using Full Body Tracking. 
-Using these animations will lock your locomotion in place (you can no longer move using a thumb stick or keyboard) however you can still physically move in your placespace or by using OVR Advanced Settings playspace moving.   
+This is a set of animations and an animation controller used to add sit and laydown animations to SDK3 avatars for use by VRChat users not using Full Body Tracking.      
+Using these animations will lock your locomotion in place (you can no longer move using a thumb stick or keyboard) however you can still physically move in your placespace or by using OVR Advanced Settings playspace moving. (Although your feet are rooted in place)    
 By default the animation will also adjust your position and view point to match, this can be disabled, see the notes on 'PoseSpace' parameter below.   
 
 Included animations are:  
