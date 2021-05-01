@@ -9,6 +9,7 @@ Open your Parameters and add the following
 |--|--|--|--
 | SittingAnim | Int | 0 | No
 | PoseSpace | Bool | Unchecked | Your choice
+
 Open your Menu and add a Sub Menu pointing to the included **SubMenu_Laydown** in the folder "VRC Menu and Param"
 
 ![image](https://user-images.githubusercontent.com/68404726/116765013-ceaec880-a9e8-11eb-8187-37dad397e920.png)
@@ -25,6 +26,7 @@ Included animations are:
  - Lay on Left Side
  - Lay on Right Side 
   - Sit Legs Down
+  
   ![image](https://user-images.githubusercontent.com/68404726/116765040-e9813d00-a9e8-11eb-9149-9ab38c3f9f84.png)
 
 
