@@ -12,7 +12,8 @@ Open your Parameters and add the following
 
 Open your Menu and add a Sub Menu pointing to the included **SubMenu_Laydown** in the folder "VRC Menu and Param"
 
-![image](https://user-images.githubusercontent.com/68404726/116765013-ceaec880-a9e8-11eb-8187-37dad397e920.png)
+![image](https://user-images.githubusercontent.com/68404726/116765891-454dc500-a9ed-11eb-92ec-f3d5e92ee35a.png)
+
 
 
 The parameter 'PoseSpace' is used to optionally disabled the feature of adjusting your position to match the animation when it is set to True. This is included by a toggle on the included Laydown Menu
