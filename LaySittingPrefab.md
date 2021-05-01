@@ -1,6 +1,6 @@
 **Laying / Sitting Animation Prefab**
 
-[Click here to download](Reasources/Laydown%20Animation-Action-v4%20-%20Choices%20-%20Nirvash.unitypackage)
+[Click here to download](https://github.com/Dervali-git/VRC-Tips/raw/main/Reasources/Laydown%20Animation-Action-v4%20-%20Choices%20-%20Nirvash.unitypackage)
 _Note: These anmations are tuned for the Davali and soon Kitavali._
 ### Instructions
 Set your Action layer to the included **ActionLayer_Laydown_Pose-Multiple**
