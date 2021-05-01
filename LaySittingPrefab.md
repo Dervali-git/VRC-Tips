@@ -1,39 +1,52 @@
-**Laying / Sitting Animation Prefab**
+## **Laying / Sitting Animation Prefab**
 
-[Click here to download](https://github.com/Dervali-git/VRC-Tips/raw/main/Reasources/Laydown%20Animation-Action-v4%20-%20Choices%20-%20Nirvash.unitypackage)
+[Click here to download](https://github.com/Dervali-git/VRC-Tips/raw/main/Reasources/Laydown%20Animation-Action-v4%20-%20Choices%20-%20Nirvash.unitypackage)  
 _Note: These anmations are tuned for the Davali and soon Kitavali._
-### Instructions
-Set your Action layer to the included **ActionLayer_Laydown_Pose-Multiple**
-Open your Parameters and add the following
+
+### About
+This is a set of animations and an animation controller used to add sit and laydown animations to SDK3 avatars for use by VRChat users not using Full Body Tracking. 
+Using these animations will lock your locomotion in place (you can no longer move using a thumb stick or keyboard) however you can still physically move in your placespace or by using OVR Advanced Settings playspace moving.   
+By default the animation will also adjust your position and view point to match, this can be disabled, see the notes on 'PoseSpace' parameter below.   
+
+Included animations are:  
+ - Lay down on back
+ - Lay on Left Side
+ - Lay on Right Side 
+ - Sit
+ - Sit Crossed Legs 
+ - Sit Legs forward 
+  - Sit Legs Down  
+  ![LaydownRadial](https://user-images.githubusercontent.com/68404726/116769919-560a3500-aa05-11eb-9548-b5b0c8b62f56.png)
+
+
+
+### Instructions  
+*Screenshots are below*  
+Import the Unity Package you downloaded above. The contents should extract to 'Assets\Laydown'   
+
+Then in the **Playerable Layers** drop down in the **VRC Avatar Descriptor** set your **Action** layer to the included **ActionLayer_Laydown_Pose-Multiple**   
+     
+Next in the **Expressions**  drop down, open your **Parameters** and add the following
 | Name | Type | Default | Saved
 |--|--|--|--
 | SittingAnim | Int | 0 | No
-| PoseSpace | Bool | Unchecked | Your choice
+| PoseSpace | Bool | Unchecked | Recommended
 
-Open your Menu and add a Sub Menu pointing to the included **SubMenu_Laydown** in the folder "VRC Menu and Param"
+>If SittingAnim is saved and you were last sitting in the avatar, as soon as you load in you'd switch to sitting. This is unlikely to be the desired behavior, which is why you _should not save that parameter_.   
+>  
+> The parameter 'PoseSpace' is used to optionally disabled the feature of adjusting your position to match the animation when it is set to True. This is included by a toggle "Don't Move View" on the included Laydown Menu    
+  
+Open your **Menu** and add a Sub Menu pointing to the included **SubMenu_Laydown** in the folder 'Assets\Laydown\VRC Menu and Param'  
 
 ![image](https://user-images.githubusercontent.com/68404726/116765891-454dc500-a9ed-11eb-92ec-f3d5e92ee35a.png)
+That should be all you need to do to add this to your avatar! Feel free to reach out to me for suggestions or questions. Nirvash#0001     
 
-
-
-The parameter 'PoseSpace' is used to optionally disabled the feature of adjusting your position to match the animation when it is set to True. This is included by a toggle on the included Laydown Menu
-
-
-Included animations are:
- -  Lay down on back
- -  Idle   
- -  Sit Crossed Legs 
- -  Sit Legs forward 
- - Lay on Left Side
- - Lay on Right Side 
-  - Sit Legs Down
-  
-  ![image](https://user-images.githubusercontent.com/68404726/116765040-e9813d00-a9e8-11eb-9149-9ab38c3f9f84.png)
 
 
 ### Credits
-Animations are from mixamo.com you can find them by searching "Sit" or "Lay"
-Icons from from VRC or icons8.com. Huge thanks to alexx1 for the hint on getting temp pose spaces working right and the inspiration to do more than just lay down.
+Animations are from mixamo.com you can find them by searching "Sit" or "Lay"     
+Icons from from VRC or icons8.com.   
+Huge thanks to alexx1 for the hint on getting temp pose spaces working right and the inspiration to do more than just lay down. Check out their customizable SDK3 avali in this world - [Louis Rossmann's Repair shop ](https://vrchat.com/home/world/wrld_d9c8c442-f69f-4b14-bf76-b9369853f702) (Yes that is the correct world)   
 
 
 
