@@ -22,6 +22,7 @@ Included animations are:
  - Lay on Right Side [VR only] (7) 
  - Sleeping Left [VR only] (4) 
  - Sleeping Right [VR only] (5) 
+     
   ![LaydownRadial](https://user-images.githubusercontent.com/68404726/116769919-560a3500-aa05-11eb-9548-b5b0c8b62f56.png)
 
 ### Known Bugs
