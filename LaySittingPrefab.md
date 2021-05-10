@@ -2,11 +2,11 @@
 
 **This is still a beta version that is not final**
 
-[Click here to download](https://github.com/Dervali-git/VRC-Tips/raw/main/Reasources/Laydown%20Animation-Action-v5%20-%20Multi%20-%20Nirvash.unitypackage)  
+[Click here to download](https://github.com/Dervali-git/VRC-Tips/raw/main/Reasources/Laydown%20Animation-Action-v6%20-%20Multi%20-%20Nirvash.unitypackage)  
 _Note: These anmations are tuned for the Davali and soon Kitavali. (Only matters for desktop really)_
 
 ### About
-This is a set of animations and an animation controller used to add sit and laydown animations to SDK3 avatars for use by VRChat users not using Full Body Tracking.      
+This is a set of animations and an animation controller used to add sit and laydown animations to SDK3 avatars for use by VRChat users not using Full Body Tracking. (Or hip tracking)     
 Using these animations will lock your locomotion in place (you can no longer move using a thumb stick or keyboard) however you can still physically move in your placespace or by using OVR Advanced Settings playspace moving. (Although your feet are rooted in place)  For Desktop your head will be locked in place vertically when in laying anmiations, and your entire body will move when you turn your head in sitting animations.      
 By default the animation will also adjust your position and view point to match, this can be disabled, see the notes on 'PoseSpace' parameter below.   
 
@@ -18,11 +18,15 @@ Included animations are:
  - Sit Crossed Legs (52)
  - Sit Legs forward (53)
  - Sit Legs Down (54)
- - Lay on Left Side [VR] (6) 
- - Lay on Right Side [VR] (7) 
- - Sleeping Left [VR] (4) 
- - Sleeping Right [VR] (5) 
+ - Lay on Left Side [VR only] (6) 
+ - Lay on Right Side [VR only] (7) 
+ - Sleeping Left [VR only] (4) 
+ - Sleeping Right [VR only] (5) 
   ![LaydownRadial](https://user-images.githubusercontent.com/68404726/116769919-560a3500-aa05-11eb-9548-b5b0c8b62f56.png)
+
+### Known Bugs
+  * For some reason the 'Sleeping' animations have the legs pulled in too close to the body in FBT. They are set right in the animation, (and IK targets) but it just doesn't apply. If you have any idea the reason or a fix, let me know!    
+  * Entering into a VR only pose in Desktop freezes you
 
 
 
@@ -50,7 +54,7 @@ That should be all you need to do to add this to your avatar! Feel free to reach
 
 
 ### Credits
-Animations are from mixamo.com you can find them by searching "Sit" or "Lay"     
+Base animations are from mixamo.com you can find them by searching "Sit" or "Lay"     
 Icons from from VRC or icons8.com.   
 Huge thanks to alexx1 for the hint on getting temp pose spaces working right and the inspiration to do more than just lay down. Check out their customizable SDK3 avali in this world - [Louis Rossmann's Repair shop ](https://vrchat.com/home/world/wrld_d9c8c442-f69f-4b14-bf76-b9369853f702) (Yes that is the correct world)   
 
