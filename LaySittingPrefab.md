@@ -2,7 +2,7 @@
 
 **This is still a beta version that is not final**
 
-[Click here to download](https://github.com/Dervali-git/VRC-Tips/raw/main/Reasources/Laydown%20Animation-Action-v7%20-%20Multi%20-%20Nirvash.unitypackage)  
+[Click here to download](https://github.com/Dervali-git/VRC-Tips/raw/main/Reasources/Laydown%20Animation-Action-v8%20-%20Multi%20-%20Nirvash.unitypackage)  
 _Note: These anmations are tuned for the Davali and soon Kitavali. (Only matters for desktop really)_
 
 ### About
@@ -23,11 +23,12 @@ Included animations are:
  - Sleeping Left [VR only] (4) 
  - Sleeping Right [VR only] (5) 
      
-  ![LaydownRadial](https://user-images.githubusercontent.com/68404726/119743413-6ddfa800-be4f-11eb-8781-733680cbb5af.png)
+  ![LaydownRadial](https://user-images.githubusercontent.com/68404726/120073653-e799b080-c05e-11eb-8cb7-ba2844c6c150.png)
 
 ### Known Bugs
   * For some reason the 'Sleeping' animations have the legs pulled in too close to the body in FBT. They are set right in the animation, (and IK targets) but it just doesn't apply. If you have any idea the reason or a fix, let me know!    
   * Entering into a VR only pose in Desktop freezes you
+  * The animator quickly does a pose when the avatar loads then goes to the idle state. For some reason after adding the blendtrees for the height adjustment, the first pose will cause you to be high up. This fixes that. 
 
 
 
@@ -42,14 +43,16 @@ Next in the **Expressions**  drop down, open your **Parameters** and add the fol
 |--|--|--|--
 | SittingAnim | Int | 0 | No
 | PoseSpace | Bool | Unchecked | Recommended
-| ToggleLocoOn | Bool | Unchecked | No
-| ToggleLocoOff | Bool | Unchecked | No
+| PlaySpace | Float | 0 | Maybe?
+| ResetPose | Bool | Unchecked | No
 
 >If SittingAnim is saved and you were last sitting in the avatar, as soon as you load in you'd switch to sitting. This is unlikely to be the desired behavior, which is why you _should not save that parameter_.   
 >  
-> The parameter 'PoseSpace' is used to optionally disabled the feature of adjusting your position to match the animation when it is set to True. This is included by a toggle "Don't Move View" on the included Laydown Menu 
+> The parameter 'PoseSpace' is used to optionally disabled the feature of adjusting your position to match the animation when it is set to True. This is included by a toggle "Don't Move View" on the included More menu 
 >
->The ToggleLocoOn/Off parameters are used to overide the pose locking of the animation and allow you to move. However this will mess up feet positions in many cases. If you don't want this option, just don't add these two parameters and in the 'Assets\Laydown\VRC Menu and Param\SubMenu_Laydown_More' menu remove the last two options titled "Toggle Loco On/Off"
+>PlaySpace is used for rasing the animation up. This is used by the "Height Adjust" radial puppet in the More menu.
+>
+>ResetPose resets your current view to match a change in PlaySpace. This is used by the "Reset View"  buttonin the More menu.
   
 Open your **Menu** and add a Sub Menu pointing to the included **SubMenu_Laydown** in the folder 'Assets\Laydown\VRC Menu and Param'  
 
