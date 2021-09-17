@@ -1,4 +1,5 @@
 ## **Laying / Sitting Animation Prefab**
+![image](https://github.com/Dervali-git/VRC-Tips/raw/main/Resources/Screenshots/LaySitBannerS.png)
 
 **This is still a beta version that is not final**
 
