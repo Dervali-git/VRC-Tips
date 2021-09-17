@@ -2,7 +2,7 @@
 
 **This is still a beta version that is not final**
 
-[Click here to download](https://github.com/Dervali-git/VRC-Tips/raw/main/Reasources/Laydown%20Animation-Action-v9%20-%20Multi%20-%20Nirvash.unitypackage)  
+[Click here to download](https://github.com/Dervali-git/VRC-Tips/releases/download/LaySit9/Laydown.Animation-Action-v9.-.Multi.-.Nirvash.unitypackage)  
 _Note: These anmations are tuned for the Davali and soon Kitavali. (Only matters for desktop really)_
 
 ### About

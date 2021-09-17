@@ -8,7 +8,7 @@ In the Locomotion controller, go to prone and replace it with a custom version o
 
 
 In that Blendtree replace the existing default prone with your custom one (You can also create a new state switch to not using a Blendtree, I did not simply to make it easy to swap back)
-For a Laydown prone animation, see [here](Reasources\Lay_Down.anim)
+For a Laydown prone animation, see [here](Resources\Lay_Down.anim)
 ![image](https://user-images.githubusercontent.com/68404726/116763761-44646580-a9e4-11eb-856d-12719fb6b94d.png)
 
 If you change the prone animation, I recommend adding a [not in fully body tracking] condition to the transition from standing to crouching.
