@@ -58,7 +58,8 @@ Next in the **Expressions**  drop down, open your **Parameters** and add the fol
 Open your **Menu** and add a Sub Menu pointing to the included **SubMenu_Laydown** in the folder 'Assets\Laydown\VRC Menu and Param'  
 
 ![image](https://user-images.githubusercontent.com/68404726/116765891-454dc500-a9ed-11eb-92ec-f3d5e92ee35a.png)
-That should be all you need to do to add this to your avatar! Feel free to reach out to me for suggestions or questions. Nirvash#0001     
+
+**That should be all you need to do to add this to your avatar! Feel free to reach out to me for suggestions or questions. Nirvash#0001**     
 
 
 
