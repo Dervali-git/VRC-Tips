@@ -53,7 +53,7 @@ Next in the **Expressions**  drop down, open your **Parameters** and add the fol
 >
 >PlaySpace is used for rasing the animation up. This is used by the "Height Adjust" radial puppet in the More menu.
 >
->ResetPose resets your current view to match a change in PlaySpace. This is used by the "Reset View"  buttonin the More menu.
+>ResetPose resets your current view to match a change in PlaySpace. This is used by the "Reset View" button in the More menu.
   
 Open your **Menu** and add a Sub Menu pointing to the included **SubMenu_Laydown** in the folder 'Assets\Laydown\VRC Menu and Param'  
 
