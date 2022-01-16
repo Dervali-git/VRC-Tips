@@ -39,7 +39,7 @@ Available in the [Avali Army Discord Server](https://discord.gg/avali)
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749707292819325079)  
 
 ## Flute Avali
-[FluteBirdie's Twitter](https://twitter.com/FluteBirdie/status/1458308021650481153  
+[FluteBirdie's Twitter](https://twitter.com/FluteBirdie/status/1458308021650481153)  
 
 ## Starvali
 Currently not available | Possible future release
