@@ -22,6 +22,9 @@ Available in the [Avali Army Discord Server](https://discord.gg/avali)
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749708029699555379)  
 
+## Reverse Avali SDK3 & Quest
+Available on [GitLab](https://gitlab.com/farfelu/vrchat-reverse-avali-avatar/)  
+
 ## ReverseNatvali
 Available in the [Lords of Floof Discord Server](https://discord.gg/Cq8NacV)  
 [Direct Discord message link](https://discord.com/channels/221767961822756864/666466219737481237/915113168450252800)  
