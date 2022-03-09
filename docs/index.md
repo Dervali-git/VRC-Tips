@@ -57,3 +57,13 @@ Available on [Gumroad](https://voidangeldesigns.gumroad.com/l/NexavaliSFW3)
 ## Javali
 Available on [Gumroad](https://javenchiart.gumroad.com/l/javali)  
 
+## Mechanical Avali
+Available on [Gumroad](https://angriestscv.gumroad.com/l/MechAvali)  
+
+## BotVali 
+Available in the [Sillurgy Ur-Deep Discord Server](https://discord.gg/JE9CGyr)  
+[Direct Discord message link](https://discord.com/channels/740648686543044879/859060906771218452/859139972426760243) 
+
+
+
+
