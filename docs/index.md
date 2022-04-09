@@ -67,10 +67,11 @@ Available in the [Avali Army Discord Server](https://discord.gg/avali)
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749707292819325079)  
 
+## Inflatable/Pooltoy Avali
+Available on [Gumroad](https://modernballoonie.gumroad.com/l/PooltoyAvali)  
 
-
-
-
+## Avali Plushie
+Available on [Gumroad](https://toastysheeb.gumroad.com/l/AvaliPlushie)  
 
 
 
