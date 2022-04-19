@@ -45,6 +45,7 @@ Currently not available | Possible future release
 
 ## Nexavali
 Available on [Gumroad](https://voidangeldesigns.gumroad.com/l/NexavaliSFW3)  
+[Unofficial VRC Package](tinyurl.com/NexaVRCPack)
 
 ## Javali
 Available on [Gumroad](https://javenchiart.gumroad.com/l/javali)  
