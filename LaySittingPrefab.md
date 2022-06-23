@@ -80,4 +80,7 @@ Huge thanks to alexx1 for the hint on getting temp pose spaces working right and
 AlakaiDergal helped inspire the toggles for Locomotion
 
 
-
+### License   
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).   
+TLDR: You can share, copy and redistribute this asset along with modifing and building upon the asset for any purpose, even commercially.  
+All that is required is a credit link back to this page.   
