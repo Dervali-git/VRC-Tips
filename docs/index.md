@@ -40,6 +40,12 @@ Available in the [Lords of Floof Discord Server](https://discord.gg/Cq8NacV)
 Available in the [Lords of Floof Discord Server](https://discord.gg/Cq8NacV)  
 [Direct Discord message link](https://discord.com/channels/221767961822756864/782675586921136148/782676517976932383)
 
+## Rosa'vali
+Available on [Gumroad](https://rosebur.gumroad.com/l/rosavali)  
+
+## Nuk'Vali
+Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
+
 ## Starvali
 Currently not available | Possible future release
 
@@ -53,12 +59,18 @@ Available on [Gumroad](https://javenchiart.gumroad.com/l/javali)
 ## Flute Avali
 [FluteBirdie's Twitter](https://twitter.com/FluteBirdie/status/1458308021650481153)  
 
-## Mechanical Avali
-Available on [Gumroad](https://angriestscv.gumroad.com/l/MechAvali)  
+## Avali Plushie
+Available on [Gumroad](https://toastysheeb.gumroad.com/l/AvaliPlushie) 
+
+## Inflatable/Pooltoy Avali
+Available on [Gumroad](https://modernballoonie.gumroad.com/l/PooltoyAvali)
 
 ## BotVali 
 Available in the [Sillurgy Ur-Deep Discord Server](https://discord.gg/JE9CGyr)  
 [Direct Discord message link](https://discord.com/channels/740648686543044879/859060906771218452/859139972426760243) 
+
+## Mechanical Avali
+Available on [Gumroad](https://angriestscv.gumroad.com/l/MechAvali)  
 
 ## Minecraft Avali
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
@@ -68,11 +80,13 @@ Available in the [Avali Army Discord Server](https://discord.gg/avali)
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749707292819325079)  
 
-## Inflatable/Pooltoy Avali
-Available on [Gumroad](https://modernballoonie.gumroad.com/l/PooltoyAvali)  
+## Aerogen
+Available on [Gumroad](https://rosebur.gumroad.com/l/aerogen)
 
-## Avali Plushie
-Available on [Gumroad](https://toastysheeb.gumroad.com/l/AvaliPlushie)  
+## "Chibi" Avali
+Available on [Gumroad](https://polyottr.gumroad.com/l/chibi-avali)
+
+ 
 
 
 
