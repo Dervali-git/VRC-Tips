@@ -1,3 +1,22 @@
+## Say NO to EAC
+
+As of 2022/07/25 VRChat is planning to include Easy Anti-Cheat in the game. This will severely limit tons of the quality of life features that many of my friends have come to rely on.    
+In 4 hours the following canny post has gotten over 15k upvotes [EAC in a social VR game creates more problems than it solves](https://feedback.vrchat.com/open-beta/p/eac-in-a-social-vr-game-creates-more-problems-than-it-solves)      
+  
+* **Vote with your wallet, cancel VRC+ Subscriptions**
+* **Vote and comment on the canny post**
+* **Checkout alternative platforms such as CVR or NeosVR**
+   
+### *
+### *
+### *
+### *
+### *
+### *
+### *
+### *
+### *
+   
 ## **Laying / Sitting Animation Prefab**
 ![image](https://github.com/Dervali-git/VRC-Tips/raw/main/Resources/Screenshots/LaySitBannerS.png)
 
