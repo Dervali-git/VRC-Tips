@@ -46,8 +46,8 @@ Available on [Gumroad](https://rosebur.gumroad.com/l/rosavali)
 ## Nuk'Vali
 Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
 
-## Starvali
-Currently not available | Possible future release
+## Seeker Avali
+Available on [Gumroad](https://starmax.gumroad.com/l/Seeker-Avali)
 
 ## Nexavali
 Available on [Gumroad](https://voidangeldesigns.gumroad.com/l/NexavaliSFW3)  
