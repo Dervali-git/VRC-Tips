@@ -8,15 +8,18 @@ Available in the [Avali Army Discord Server](https://discord.gg/avali)
 ## Corvali
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749707806386684054)  
+[Chillout VR Package](https://drive.google.com/file/d/1-2gNOlpY_jxFtLKpv5VLhj4JaPRvQq4O/view?usp=sharing)
 
 ## EVA suit Avali
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749708345065209978)  
+[Chillout VR Package](https://drive.google.com/file/d/1BJ5bqjCbkivbJ562go5bY_PRPCuQYrDM/view?usp=sharing)
 
 ## Davali
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/703290269742661672/809022374744686603)  
 [Quest version - Direct Discord message link](https://discord.com/channels/530351426833088512/530354218071097354/836333600109887579)  
+Chillout VR Package available in Discord server above.
 
 ## Kitavali
 Available in the [Kita'vali Discord Server](https://discord.gg/uwN8dKU)  
@@ -28,6 +31,7 @@ Available on [Gumroad](https://raikitamatsu.gumroad.com/l/JerryAvali)
 ## Reverse Avali 
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749708029699555379)  
+[Chillout VR Package](https://drive.google.com/file/d/1NnyjKLNs7-BIgszwjdy82YOE0Z3izBNs/view?usp=sharing)
 
 ## Reverse Avali SDK3 & Quest
 Available on [GitLab](https://gitlab.com/farfelu/vrchat-reverse-avali-avatar/)  
@@ -48,10 +52,11 @@ Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
 
 ## Seeker Avali
 Available on [Gumroad](https://starmax.gumroad.com/l/Seeker-Avali)
+Chillout VR Package available on Gumroad
 
 ## Nexavali
 Available on [Gumroad](https://voidangeldesigns.gumroad.com/l/NexavaliSFW3)  
-[Unofficial VRC Package](tinyurl.com/NexaVRCPack)
+[Unofficial VRC Package](tinyurl.com/NexaVRC)
 
 ## Javali
 Available on [Gumroad](https://javenchiart.gumroad.com/l/javali)  
