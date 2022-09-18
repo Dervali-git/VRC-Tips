@@ -39,6 +39,7 @@ Available on [GitLab](https://gitlab.com/farfelu/vrchat-reverse-avali-avatar/)
 ## ReverseNatvali
 Available in the [Lords of Floof Discord Server](https://discord.gg/Cq8NacV)  
 [Direct Discord message link](https://discord.com/channels/221767961822756864/666466219737481237/915113168450252800)  
+Chillout VR Package available in Discord server above.     
 
 ## Natvali
 Available in the [Lords of Floof Discord Server](https://discord.gg/Cq8NacV)  
