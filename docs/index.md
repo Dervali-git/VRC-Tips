@@ -58,6 +58,7 @@ Chillout VR Package available on Gumroad
 ## Nexavali
 Available on [Gumroad](https://voidangeldesigns.gumroad.com/l/NexavaliSFW3)  
 [Unofficial VRC Package](tinyurl.com/NexaVRC)
+[Chillout VR Package](https://drive.google.com/file/d/1ecju8C7wcaIQtTxNlJAMqvzKlyukML8k/view?usp=sharing)
 
 ## Javali
 Available on [Gumroad](https://javenchiart.gumroad.com/l/javali)  
