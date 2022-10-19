@@ -51,6 +51,9 @@ Available on [Gumroad](https://rosebur.gumroad.com/l/rosavali)
 ## Nuk'Vali
 Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
 
+## Lorc'Avali
+Available on [Gumroad](https://lorcantheavali.gumroad.com/l/lorcavali)
+
 ## Seeker Avali
 Available on [Gumroad](https://starmax.gumroad.com/l/Seeker-Avali)
 Chillout VR Package available on Gumroad
