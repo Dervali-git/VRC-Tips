@@ -52,7 +52,7 @@ Available on [Gumroad](https://rosebur.gumroad.com/l/rosavali)
 Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
 
 ## Mike'Vali
-Available on [itch.io](mikedabird.itch.io/mikevali)
+Available on [itch.io](https://mikedabird.itch.io/mikevali)
 
 ## Lorc'Avali
 Available on [Gumroad](https://lorcanvr.gumroad.com/l/lorcavali)
