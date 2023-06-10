@@ -55,7 +55,7 @@ Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
 Available on [itch.io](mikedabird.itch.io/mikevali)
 
 ## Lorc'Avali
-Available on [Gumroad](https://lorcantheavali.gumroad.com/l/lorcavali)
+Available on [Gumroad](https://lorcanvr.gumroad.com/l/lorcavali)
 
 ## Seeker Avali
 Available on [Gumroad](https://starmax.gumroad.com/l/Seeker-Avali)
