@@ -28,6 +28,9 @@ Available in the [Kita'vali Discord Server](https://discord.gg/uwN8dKU)
 ## Jerry'vali
 Available on [Gumroad](https://raikitamatsu.gumroad.com/l/JerryAvali) 
 
+## Guavali
+Available on [Gumroad](https://bluegua.gumroad.com/l/ymkwj) 
+
 ## Reverse Avali 
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749708029699555379)  
