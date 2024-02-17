@@ -31,6 +31,9 @@ Available on [Gumroad](https://raikitamatsu.gumroad.com/l/JerryAvali)
 ## Guavali
 Available on [Gumroad](https://bluegua.gumroad.com/l/ymkwj) 
 
+## Floofvali
+Available on [Gumroad](https://bluegua.gumroad.com/l/ymkwj) 
+
 ## Reverse Avali 
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749708029699555379)  
@@ -51,18 +54,21 @@ Available in the [Lords of Floof Discord Server](https://discord.gg/Cq8NacV)
 ## Rosa'vali
 Available on [Gumroad](https://rosebur.gumroad.com/l/rosavali)  
 
-## Nuk'Vali
-Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
-
 ## Mike'Vali
 Available on [itch.io](https://mikedabird.itch.io/mikevali)
 
-## Lorc'Avali
-Available on [Gumroad](https://lorcanvr.gumroad.com/l/lorcavali)
+## QCAvali
+Available on [Gumroad](https://questingcrusader.gumroad.com/l/avaliMKI)
+
+## Nuk'Vali
+Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
 
 ## Seeker Avali
 Available on [Gumroad](https://starmax.gumroad.com/l/Seeker-Avali)
 Chillout VR Package available on Gumroad
+
+## Rali-vali
+Available on [Gumroad](https://fluffrali.gumroad.com/l/Rali-vali)
 
 ## Nexavali
 Available on [Gumroad](https://voidangeldesigns.gumroad.com/l/NexavaliSFW3)  
@@ -92,15 +98,27 @@ Available on [Gumroad](https://angriestscv.gumroad.com/l/MechAvali)
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/758766739596378143)  
 
+## "Chibi" Avali
+Available on [Gumroad](https://polyottr.gumroad.com/l/chibi-avali)
+
 ## Royal Avali
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749707292819325079)  
 
+## Paw'vali
+Available on [Gumroad](https://therpgslayer.gumroad.com/l/Pawvali)
+
+## Lorc'Avali
+Available on [Gumroad](https://lorcanvr.gumroad.com/l/lorcavali)
+
+## Hoshi Avali
+Available on [Gumroad](https://razedrake.gumroad.com/l/HoshiAvali)
+
 ## Aerogen
 Available on [Gumroad](https://rosebur.gumroad.com/l/aerogen)
 
-## "Chibi" Avali
-Available on [Gumroad](https://polyottr.gumroad.com/l/chibi-avali)
+
+
 
  
 
