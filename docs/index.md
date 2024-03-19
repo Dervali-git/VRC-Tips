@@ -31,6 +31,9 @@ Available on [Gumroad](https://raikitamatsu.gumroad.com/l/JerryAvali)
 ## Guavali
 Available on [Gumroad](https://bluegua.gumroad.com/l/ymkwj) 
 
+## Gala'vali
+Available on [Gumroad](https://jupiturn.gumroad.com/l/Galavali) 
+
 ## Floofvali
 Available on [Gumroad](https://bluegua.gumroad.com/l/ymkwj) 
 
@@ -117,7 +120,8 @@ Available on [Gumroad](https://razedrake.gumroad.com/l/HoshiAvali)
 ## Aerogen
 Available on [Gumroad](https://rosebur.gumroad.com/l/aerogen)
 
-
+## Voseus
+Available on [Gumroad](https://dragonskyrunner.gumroad.com/l/Voseus)
 
 
  
