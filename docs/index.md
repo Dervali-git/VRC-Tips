@@ -115,7 +115,9 @@ Available on [Gumroad](https://therpgslayer.gumroad.com/l/Pawvali)
 Available on [Gumroad](https://lorcanvr.gumroad.com/l/lorcavali)
 
 ## Hoshi Avali
-Available on [Gumroad](https://razedrake.gumroad.com/l/HoshiAvali)
+Available on [Gumroad](https://emberavali.gumroad.com/l/Hoshi) - Best version & free
+Available on [Gumroad](https://razedrake.gumroad.com/l/HoshiAvali) - Also free
+Available on [Gumroad](https://avaliabirb.gumroad.com/l/hachi-ver-2) - Paid
 
 ## Aerogen
 Available on [Gumroad](https://rosebur.gumroad.com/l/aerogen)
