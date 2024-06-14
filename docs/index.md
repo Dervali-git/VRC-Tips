@@ -70,6 +70,9 @@ Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
 Available on [Gumroad](https://starmax.gumroad.com/l/Seeker-Avali)
 Chillout VR Package available on Gumroad
 
+## Avali Spirit
+Available on [Gumroad](https://darkspirit019.gumroad.com/l/avali-spirit)
+
 ## Rali-vali
 Available on [Gumroad](https://fluffrali.gumroad.com/l/Rali-vali)
 
