@@ -63,6 +63,9 @@ Available on [itch.io](https://mikedabird.itch.io/mikevali)
 ## QCAvali
 Available on [Gumroad](https://questingcrusader.gumroad.com/l/avaliMKI)
 
+## KAvali
+Available on [Gumroad](https://questingcrusader.gumroad.com/l/KAvali)
+
 ## Nuk'Vali
 Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
 
