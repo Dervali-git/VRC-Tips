@@ -37,6 +37,39 @@ Available on [Gumroad](https://jupiturn.gumroad.com/l/Galavali)
 ## Floofvali
 Available on [Gumroad](https://bluegua.gumroad.com/l/ymkwj) 
 
+## Rosa'vali
+Available on [Gumroad](https://rosebur.gumroad.com/l/rosavali)  
+
+## Spiri'vali
+Available on [Gumroad](https://hiyu.gumroad.com/l/Spirivali)  
+
+## Mike'Vali
+Available on [itch.io](https://mikedabird.itch.io/mikevali)
+
+## QCAvali
+Available on [Gumroad](https://questingcrusader.gumroad.com/l/avaliMKI)
+
+## KAvali
+Available on [Gumroad](https://questingcrusader.gumroad.com/l/KAvali)
+
+## Paw'vali
+Available on [Gumroad](https://therpgslayer.gumroad.com/l/Pawvali)
+
+## Lorc'Avali
+Available on [Gumroad](https://lorcanvr.gumroad.com/l/lorcavali)
+
+## Hoshi Avali
+Available on [Gumroad](https://emberavali.gumroad.com/l/Hoshi) - Best version & free    
+Available on [Gumroad](https://razedrake.gumroad.com/l/HoshiAvali) - Also free     
+Available on [Gumroad](https://avaliabirb.gumroad.com/l/hachi-ver-2) - Paid      
+
+## Royal Avali
+Available in the [Avali Army Discord Server](https://discord.gg/avali)  
+[Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749707292819325079)  
+
+## Voseus
+Available on [Gumroad](https://dragonskyrunner.gumroad.com/l/Voseus)
+
 ## Reverse Avali 
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
 [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749708029699555379)  
@@ -53,18 +86,6 @@ Chillout VR Package available in Discord server above.
 ## Natvali
 Available in the [Lords of Floof Discord Server](https://discord.gg/Cq8NacV)  
 [Direct Discord message link](https://discord.com/channels/221767961822756864/782675586921136148/782676517976932383)
-
-## Rosa'vali
-Available on [Gumroad](https://rosebur.gumroad.com/l/rosavali)  
-
-## Mike'Vali
-Available on [itch.io](https://mikedabird.itch.io/mikevali)
-
-## QCAvali
-Available on [Gumroad](https://questingcrusader.gumroad.com/l/avaliMKI)
-
-## KAvali
-Available on [Gumroad](https://questingcrusader.gumroad.com/l/KAvali)
 
 ## Nuk'Vali
 Available on [Gumroad](https://nukude.gumroad.com/l/pyhkyk)
@@ -100,8 +121,11 @@ Available on [Gumroad](https://modernballoonie.gumroad.com/l/PooltoyAvali)
 Available in the [Sillurgy Ur-Deep Discord Server](https://discord.gg/JE9CGyr)  
 [Direct Discord message link](https://discord.com/channels/740648686543044879/859060906771218452/859139972426760243) 
 
+## AS.4VA-L1
+Available on [Gumroad](https://aeyonsystems.gumroad.com/l/AS-4VA-L1)  
+
 ## Mechanical Avali
-Available on [Gumroad](https://angriestscv.gumroad.com/l/MechAvali)  
+Available on [Gumroad](https://angriestscv.gumroad.com/l/MechAvali) 
 
 ## Minecraft Avali
 Available in the [Avali Army Discord Server](https://discord.gg/avali)  
@@ -110,26 +134,11 @@ Available in the [Avali Army Discord Server](https://discord.gg/avali)
 ## "Chibi" Avali
 Available on [Gumroad](https://polyottr.gumroad.com/l/chibi-avali)
 
-## Royal Avali
-Available in the [Avali Army Discord Server](https://discord.gg/avali)  
-[Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749707292819325079)  
-
-## Paw'vali
-Available on [Gumroad](https://therpgslayer.gumroad.com/l/Pawvali)
-
-## Lorc'Avali
-Available on [Gumroad](https://lorcanvr.gumroad.com/l/lorcavali)
-
-## Hoshi Avali
-Available on [Gumroad](https://emberavali.gumroad.com/l/Hoshi) - Best version & free    
-Available on [Gumroad](https://razedrake.gumroad.com/l/HoshiAvali) - Also free     
-Available on [Gumroad](https://avaliabirb.gumroad.com/l/hachi-ver-2) - Paid      
-
 ## Aerogen
 Available on [Gumroad](https://rosebur.gumroad.com/l/aerogen)
 
-## Voseus
-Available on [Gumroad](https://dragonskyrunner.gumroad.com/l/Voseus)
+## Ori'Vali
+Available on [itch.io](https://mikedabird.itch.io/orivali)
 
 
  
