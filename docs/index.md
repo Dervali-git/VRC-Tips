@@ -4,18 +4,21 @@ This is a companion for the following VRChat World - [Avali Model Comparison](ht
 **VRCArena is a great site for finding furry models, here is direct link to their [avali](https://www.vrcarena.com/species/znPJ5XIfaXrLe7rlXsHz) section**
 
 ## Avali 1.3
-[Avali Army Renewal Discord Server](https://discord.gg/avaliarmyrenewal)  - [Direct Discord message link](https://discord.com/channels/1281629688367939634/1281824579215560714/1281828398280343572) `Avali 1.3 (new wings of the 1.1 but still older) - made by snerfoil`        
+[Avali Army Renewal Discord Server](https://discord.gg/avaliarmyrenewal)  - [Direct Discord message link](https://discord.com/channels/1281629688367939634/1281824579215560714/1281828398280343572)          
+`^----- Avali 1.3 (new wings of the 1.1 but still older) - made by snerfoil`        
 [Quest version](https://vrcmods.com/item/6550)             
 ~~Available in the [Avali Army Discord Server](https://discord.gg/avali)   [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749706957362954302)  [Quest version](https://vrcmods.com/item/6550)~~          
 
 ## Corvali
-[Avali Army Renewal Discord Server](https://discord.gg/avaliarmyrenewal) - [Direct Discord message link](https://discord.com/channels/1281629688367939634/1281824579215560714/1281828398280343572) `Corvali (fixed by Frowny, Made by Lonely fox)`      
+[Avali Army Renewal Discord Server](https://discord.gg/avaliarmyrenewal) - [Direct Discord message link](https://discord.com/channels/1281629688367939634/1281824579215560714/1281828398280343572)            
+`^----- Corvali (fixed by Frowny, Made by Lonely fox)`      
 [Chillout VR Package](https://drive.google.com/file/d/1-2gNOlpY_jxFtLKpv5VLhj4JaPRvQq4O/view?usp=sharing)            
 ~~Available in the [Avali Army Discord Server](https://discord.gg/avali)[Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749707806386684054)~~  
 
 
 ## EVA suit Avali
-[Avali Army Renewal Discord Server](https://discord.gg/avaliarmyrenewal) - [Direct Discord message link](https://discord.com/channels/1281629688367939634/1281824579215560714/1281828398280343572) `EVA suit Avali - (fixed by Frowny, made by Lonely fox)`           
+[Avali Army Renewal Discord Server](https://discord.gg/avaliarmyrenewal) - [Direct Discord message link](https://discord.com/channels/1281629688367939634/1281824579215560714/1281828398280343572)            
+`^----- EVA suit Avali - (fixed by Frowny, made by Lonely fox)`           
 [Chillout VR Package](https://drive.google.com/file/d/1BJ5bqjCbkivbJ562go5bY_PRPCuQYrDM/view?usp=sharing)            
 ~~Available in the [Avali Army Discord Server](https://discord.gg/avali) [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749708345065209978)~~
 
@@ -69,14 +72,16 @@ Available on [Gumroad](https://razedrake.gumroad.com/l/HoshiAvali) - Also free
 Available on [Gumroad](https://avaliabirb.gumroad.com/l/hachi-ver-2) - Paid      
 
 ## Royal Avali
-[Avali Army Renewal Discord Server](https://discord.gg/avaliarmyrenewal)  - [Direct Discord message link](https://discord.com/channels/1281629688367939634/1281824579215560714/1281828398280343572) `Royal Avali - Made by Octupus king`              
+[Avali Army Renewal Discord Server](https://discord.gg/avaliarmyrenewal)  - [Direct Discord message link](https://discord.com/channels/1281629688367939634/1281824579215560714/1281828398280343572)          
+`^----- Royal Avali - Made by Octupus king`              
 ~~Available in the [Avali Army Discord Server](https://discord.gg/avali)  [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749707292819325079)~~     
 
 ## Voseus
 Available on [Gumroad](https://dragonskyrunner.gumroad.com/l/Voseus)
 
 ## Reverse Avali 
-[Avali Army Renewal Discord Server](https://discord.gg/avaliarmyrenewal)  - [Direct Discord message link](https://discord.com/channels/1281629688367939634/1281824579215560714/1281828398280343572) `Reverse Avali - by VictonRoy`    
+[Avali Army Renewal Discord Server](https://discord.gg/avaliarmyrenewal)  - [Direct Discord message link](https://discord.com/channels/1281629688367939634/1281824579215560714/1281828398280343572)            
+`^----- Reverse Avali - by VictonRoy`    
 [Chillout VR Package](https://drive.google.com/file/d/1NnyjKLNs7-BIgszwjdy82YOE0Z3izBNs/view?usp=sharing)     
 ~~Available in the [Avali Army Discord Server](https://discord.gg/avali) [Direct Discord message link](https://discord.com/channels/530351426833088512/749706117457903708/749708029699555379)~~      
 
