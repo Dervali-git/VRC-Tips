@@ -63,8 +63,11 @@ Available on [Gumroad](https://questingcrusader.gumroad.com/l/KAvali)
 ## Paw'vali
 Available on [Gumroad](https://therpgslayer.gumroad.com/l/Pawvali)
 
-## Lorc'Avali
-Available on [Gumroad](https://lorcanvr.gumroad.com/l/lorcavali)
+## Lorc'Avali           
+Available on [Gumroad](https://lorcanvr.gumroad.com/l/lorcavali)                
+
+## Av-Eli              
+Available on [Gumroad](https://ishgardwinter.gumroad.com/l/Av-Eli)            
 
 ## Hoshi Avali
 Available on [Gumroad](https://emberavali.gumroad.com/l/Hoshi) - Best version & free    
