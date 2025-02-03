@@ -39,6 +39,9 @@ Available on [Gumroad](https://wispweaver.gumroad.com/l/JerryAvali)
 ## Guavali
 Available on [Gumroad](https://bluegua.gumroad.com/l/ymkwj) 
 
+## Sap avali
+Available on [this website](https://sapcec.com/avali/) 
+
 ## Gala'vali
 Available on [Gumroad](https://jupiturn.gumroad.com/l/Galavali) 
 
@@ -145,6 +148,9 @@ Available on [Gumroad](https://angriestscv.gumroad.com/l/MechAvali)
 
 ## "Chibi" Avali
 Available on [Gumroad](https://polyottr.gumroad.com/l/chibi-avali)
+
+## PROTOVALI
+Available on [Gumroad](https://jinxyuwu.gumroad.com/l/protovali)
 
 ## Aerogen
 Available on [Gumroad](https://rosebur.gumroad.com/l/aerogen)
