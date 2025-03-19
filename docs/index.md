@@ -158,7 +158,8 @@ Available on [Gumroad](https://rosebur.gumroad.com/l/aerogen)
 ## Ori'Vali
 Available on [itch.io](https://mikedabird.itch.io/orivali)
 
-
+## Haggita'vali
+Available on [Gumroad](https://avali.haggets.com/)
  
 
 
