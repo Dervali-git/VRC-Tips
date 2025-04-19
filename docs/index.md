@@ -159,7 +159,7 @@ Available on [Gumroad](https://rosebur.gumroad.com/l/aerogen)
 Available on [itch.io](https://mikedabird.itch.io/orivali)
 
 ## Haggita'vali
-Available on [Gumroad](https://avali.haggets.com/)
+Available on [haggitavali.com](https://haggitavali.com)
          
 ## Gravali       
 Available on [404justfound.net](https://404justfound.net/models/gravali)        
