@@ -163,6 +163,26 @@ Available on [haggitavali.com](https://haggitavali.com)
          
 ## Gravali       
 Available on [404justfound.net](https://404justfound.net/models/gravali)        
+         
+## Revali      
+Available on [Gumroad](https://thesenti.gumroad.com/l/Revali)        
+         
+## Taube        
+Available on [Gumroad](https://fursonify.gumroad.com/l/Taube)        
+         
+## Apheli'Vali        
+Available on [Gumroad](https://acomfypillow.gumroad.com/l/Aphelivali)        
+         
+## Li'vali        
+Available on [Jinxxy](https://jinxxy.com/Livdays/Livali)        
+         
+## Javali Redux       
+Available on [Gumroad](https://javenchiart.gumroad.com/l/javaliredux)        
+         
+## Avali Pooltoy (Maitake Shiba)       
+Available on [Gumroad](https://toastysheeb.gumroad.com/l/AvaliPooltoy)        
+
+
     
 
 
