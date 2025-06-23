@@ -182,7 +182,8 @@ Available on [Gumroad](https://javenchiart.gumroad.com/l/javaliredux)
 ## Avali Pooltoy (Maitake Shiba)       
 Available on [Gumroad](https://toastysheeb.gumroad.com/l/AvaliPooltoy)        
 
-
+## Blu Avali Model     
+Available on [Gumroad](https://thezorronebula.gumroad.com/l/jvsgvz)   
     
 
 
