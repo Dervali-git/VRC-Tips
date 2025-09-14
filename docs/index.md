@@ -187,6 +187,13 @@ Available on [Gumroad](https://thezorronebula.gumroad.com/l/jvsgvz)
     
 ## Ele'vali     
 Available on [Gumroad/Jinxxy/Ko-fi](https://elevali.avali.info/) 
+        
+## YAAvali   
+Available on [Gumroad](https://dragonskyrunner.gumroad.com/l/YAAvali)     
+        
+## Phovali   
+Available on [Ko-fi](https://ko-fi.com/s/3f24fea9bf)    
+
 
 
 
