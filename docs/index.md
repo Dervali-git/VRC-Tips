@@ -194,7 +194,9 @@ Available on [Gumroad](https://dragonskyrunner.gumroad.com/l/YAAvali)
 ## Phovali   
 Available on [Ko-fi](https://ko-fi.com/s/3f24fea9bf)    
 
-
-
-
+## Vi'Vali    
+Available on [Gumroad](https://chimerahollow.gumroad.com/l/qidny)      
+    
+## TaliVali 
+Available on [awawi.nexus](https://featherpile.awawi.nexus/talivali/)     
 
