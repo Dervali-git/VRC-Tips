@@ -200,3 +200,8 @@ Available on [Gumroad](https://chimerahollow.gumroad.com/l/qidny)
 ## TaliVali 
 Available on [awawi.nexus](https://featherpile.awawi.nexus/talivali/)     
 
+## Tehvali       
+Available on [Jinxxy](https://jinxxy.com/Octo_Hedgie/TehvaliVrchatBase)             
+
+## Cync'vali       
+Available on [Jinxxy](https://jinxxy.com/Cynic/Cyncvali)             
