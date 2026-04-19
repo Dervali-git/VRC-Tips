@@ -204,4 +204,10 @@ Available on [awawi.nexus](https://featherpile.awawi.nexus/talivali/)
 Available on [Jinxxy](https://jinxxy.com/Octo_Hedgie/TehvaliVrchatBase)             
 
 ## Cync'vali       
-Available on [Jinxxy](https://jinxxy.com/Cynic/Cyncvali)             
+Available on [Jinxxy](https://jinxxy.com/Cynic/Cyncvali)       
+           
+## SnerVali       
+Available on [Twitter/Discord](https://x.com/snerfoil/status/1994667981775999219)   
+                
+## Remastered Reverse Avali       
+Available on [Gumroad](https://webserfer.gumroad.com/l/tkqizk)   
