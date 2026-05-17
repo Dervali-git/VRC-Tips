@@ -209,5 +209,15 @@ Available on [Jinxxy](https://jinxxy.com/Cynic/Cyncvali)
 ## SnerVali       
 Available on [Twitter/Discord](https://x.com/snerfoil/status/1994667981775999219)   
                 
-## Remastered Reverse Avali       
+## Remastered Reverse Avali         
 Available on [Gumroad](https://webserfer.gumroad.com/l/tkqizk)   
+
+## Maken'A'vali           
+Available on [Jinxxy](https://jinxxy.com/MakenToschVR/makenavali)      
+           
+## Musavalii         
+Available on [Gumroad](https://aetheriusforge.gumroad.com/l/Musavali)       
+                    
+## Gen'vali         
+Available on [Jinxxy](https://jinxxy.com/Flux_Abraxis/mvj6v)        
+           
