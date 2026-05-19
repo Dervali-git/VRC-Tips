@@ -220,4 +220,6 @@ Available on [Gumroad](https://aetheriusforge.gumroad.com/l/Musavali)
                     
 ## Gen'vali         
 Available on [Jinxxy](https://jinxxy.com/Flux_Abraxis/mvj6v)        
-           
+                        
+## Fluff Avali         
+Available on [Jinxxy](https://jinxxy.com/melacar/FluffAvali)            
