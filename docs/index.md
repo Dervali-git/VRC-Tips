@@ -229,3 +229,9 @@ Available on [Jinxxy](https://jinxxy.com/FUNGUSFACTORY/trivali)
 
 ## Za'vali         
 Available on [Jinxxy](https://jinxxy.com/ShadowZer0/oNt37)       
+               
+## Fae'vali         
+Available on [Jinxxy](https://jinxxy.com/Beanthing/faevali)      
+               
+## Nico'Vali         
+Available on [Jinxxy](https://jinxxy.com/Nicoreda/7EN5r)  
